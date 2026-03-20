@@ -34,6 +34,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
   <img width="24" />
@@ -140,18 +144,7 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=thecipherdev&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thecipherdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&custom_title=Cookin'%20in..." height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=thecipherdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<h2 align="left">## 👾 GitHub Activity (Yes it's Pac-Man)</h2>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thecipherdev/thecipherdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thecipherdev/thecipherdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thecipherdev/thecipherdev/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
