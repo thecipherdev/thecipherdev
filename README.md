@@ -24,6 +24,11 @@
 
 <p align="left">- 💻 Software Engineer with <strong>3+ years of experience</strong><br>- ⚛️ Building modern apps with  <strong>React, Next.js, TypeScript, and NestJS </strong><br>- 🔧 Strong focus on  <strong>clean architecture, performance, and developer experience</strong><br>- 🌱 Currently learning  <strong>Go and backend system design</strong><br>- 📈 Interested in  <strong>FinTech, distributed systems, and infrastructure</strong><br>- ☕ I enjoy  <strong>running, reading, and building side projects</strong></p>
 
+<p align="left">
+  ⛳ You can find more at 
+  <a href="https://jomelbuilds.dev">jomelbuilds.dev</a>
+</p>
+
 ###
 
 <h2 align="left">🛠 Tech Stack</h2>
