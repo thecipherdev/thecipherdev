@@ -26,7 +26,7 @@
 
 <p align="left">
   ⛳ You can find more at 
-  <a href="https://jomelbuilds.dev">jomelbuilds.dev</a>
+  <a href="https://jomelbuilds.dev" target="_blank">jomelbuilds.dev</a>
 </p>
 
 ###
